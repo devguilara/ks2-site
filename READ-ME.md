@@ -41,6 +41,6 @@ Se você deseja visualizar o site em seu ambiente de desenvolvimento local, siga
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão sobre o site ou o projeto em geral, entre em contato conosco pelo email: [seu-email@empresa.com].
+Se você tiver alguma dúvida ou sugestão sobre o site ou o projeto em geral, entre em contato conosco pelo email: [guilhermelara.developer@outlook.com].
 
 Agradecemos pelo interesse e contribuição para tornar o nosso site ainda melhor!
